@@ -42,10 +42,15 @@ Shorts and Reels make this harder. A video can be genuinely useful, but the rest
    - Branches are not automatically merged when the actual dining experience may differ.
 
 5. Personal taste layer
-   - Stores the signals you personally value.
+   - `taste-profile.md` stores the restaurant and menu signals the user personally values or dislikes.
    - Examples: best in category, national No. 1, craft-level quality, extreme value with real quality, personal favorites, repeat-visit restaurants.
+   - This is separate from creator trust. `creator-registry.md` manages who to trust; `taste-profile.md` manages what the user likes.
 
-6. Visit queue
+6. Visit feedback layer
+   - `visit-feedback.md` records real post-visit feedback.
+   - Feedback updates both sides: restaurant/taste fit in `taste-profile.md`, and creator reliability in `creator-registry.md` and `trust-rubric.md`.
+
+7. Visit queue
    - Separates immediate candidates, holds, stale entries, and restaurants that need operational verification.
 
 ## Why Manage Food Creators Separately?
@@ -63,6 +68,26 @@ Subscriber count alone does not mean a creator matches your taste. Some channels
 - Chef/expert backup channels for fine dining and culinary context.
 
 The creator list is not fixed. It should be edited for each user.
+
+## Taste And Feedback Management
+
+Creator lists and personal taste lists should be managed separately.
+
+1. Food creator / influencer list
+   - Managed in `creator-registry.md`, `creator-source-pool.md`, and `creator-lifecycle.md`.
+   - Tracks whether a creator is trustworthy, sponsorship-heavy, aligned with the user's taste, or useful because their taste is more advanced/high-end than the user's.
+
+2. Restaurant and menu taste list
+   - Managed in `taste-profile.md` and `category-analysis.md`.
+   - Tracks preferred signals, disliked signals, cuisine preferences, budget sensitivity, revisit intent, and menu-level taste.
+   - Examples: "domestic No. 1 pizza", "craft-level meat restaurant", "expensive but justified omakase", or "cheap but quality-light value is not enough."
+
+3. Post-visit feedback
+   - Managed in `visit-feedback.md`.
+   - After a real visit, mark the result as `hit / miss / neutral` and record what matched or failed.
+   - A good visit can raise the weight of the source signal and the creator's category trust. A bad visit can downgrade similar signals or the creator's trust in that category.
+
+The goal is to maintain a high-quality, personal-taste-aware restaurant radar that keeps suggesting places the user would actually want to visit.
 
 ## Example Requests
 
@@ -242,6 +267,7 @@ For Shorts, always inspect:
    ├─ creator-source-pool.md
    ├─ restaurant-ledger.md
    ├─ taste-profile.md
+   ├─ visit-feedback.md
    ├─ recommendation-queue.md
    ├─ category-analysis.md
    ├─ source-watchlist.md

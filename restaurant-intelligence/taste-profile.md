@@ -83,18 +83,13 @@ Explicit user update: 잡식맨's domestic No.1 pizza recommendation around Ilsa
 | Everyday local finds | like | medium | Compared creator styles and local recommendations. |
 | Expensive fine dining | conditional | medium | Wants official guide layer but noted pricey creator tendency. |
 
-## Post-Visit Feedback Template
+## Post-Visit Feedback Link
 
-```markdown
-## YYYY-MM-DD - Restaurant
+Detailed post-visit records should live in `visit-feedback.md`.
 
-- Ordered:
-- Source that led to visit:
-- Result: hit / miss / neutral
-- What matched:
-- What failed:
-- Price/value:
-- Wait/reservation:
-- Revisit intent:
-- Taste-profile update:
-```
+Use this file only for durable taste changes, such as:
+
+- a repeated positive or negative signal;
+- a cuisine/category preference change;
+- a price/value rule that should affect future ranking;
+- a menu-level preference that should be reused in recommendations.
