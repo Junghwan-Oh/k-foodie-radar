@@ -163,6 +163,11 @@ Instead of returning a plain list of titles, `foodie-radar` organizes the result
 - Menu-level reasons for the main order candidates.
 - Course or omakase details, with uncertain entries held or downgraded when course details are missing.
 
+Detailed Markdown versions are available here:
+
+- [Jaesullang Guide recent three-month price-tier restaurant list](restaurant-intelligence/jaesullang-3mo-top10-2026-05-18.md)
+- [Jobxicman recent three-month price-tier restaurant list](restaurant-intelligence/jobxicman-3mo-top10-2026-05-18.md)
+
 The image below is a sample price-tier table for Jaesullang Guide's recent three-month recommendations.
 
 ![Jaesullang Guide price-tier recommendation sample](assets/jaesullang-price-table-sample.svg)

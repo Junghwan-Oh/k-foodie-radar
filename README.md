@@ -169,6 +169,11 @@
 - 주요 메뉴마다 왜 주문 후보인지 설명합니다.
 - 코스요리/오마카세는 세부 코스가 확인되지 않으면 보류하거나 순위를 낮춥니다.
 
+상세 Markdown 버전은 아래에서 볼 수 있습니다.
+
+- [재슐랭가이드 최근 3개월 가격대별 맛집 리스트](restaurant-intelligence/jaesullang-3mo-top10-2026-05-18.md)
+- [잡식맨 최근 3개월 가격대별 맛집 리스트](restaurant-intelligence/jobxicman-3mo-top10-2026-05-18.md)
+
 아래 이미지는 재슐랭가이드 최근 3개월 추천 식당을 가격무관 Top 10으로 정리한 샘플입니다.
 
 ![재슐랭가이드 가격대별 추천표 샘플](assets/jaesullang-price-table-sample.svg)
