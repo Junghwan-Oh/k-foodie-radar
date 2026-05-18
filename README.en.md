@@ -61,7 +61,7 @@ Shorts and Reels make this harder. A video can be genuinely useful, but the rest
 
 Finding high-quality food creators is hard.
 
-In this project, a high-quality food creator is not just someone with high views. They are closer to food specialists: people who may spend millions to tens of millions of KRW per month on restaurants and who build serious judgment through repeated dining. Following creators whose taste is similar to yours, or whose taste is similar in direction but more advanced/high-end, has proven far more effective than generic search for increasing restaurant success rate and satisfaction.
+In this project, a high-quality food creator is not just someone with high views. They are closer to food specialists: people who may spend millions to tens of millions of KRW per month on restaurants and who build serious judgment through repeated dining. Reviewing recommendation lists from creators whose taste is similar to yours, or whose taste is similar in direction but more advanced/high-end, then choosing the restaurants that fit your own taste, has proven far more effective than generic search for increasing restaurant success rate and satisfaction.
 
 Subscriber count alone does not mean a creator matches your taste, and having many videos does not automatically mean a creator fits your current purpose. A channel can make excellent content and still be less relevant to the specific goal of building a high-quality personal restaurant list for actual visits. Filtering out advertising, promotion, and marketing-heavy recommendations is especially important, but it is hard to judge from one or two randomly discovered videos.
 
