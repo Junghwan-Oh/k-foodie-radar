@@ -189,7 +189,7 @@ Rules:
 
 Jaesullang Guide is used here as a sample creator because it is one of the personally trusted food YouTube channels in this workflow. This is only one possible usage pattern. Users can replace the creator, region, cuisine, price range, or ranking logic based on their own taste.
 
-As of 2026-05-18, Jaesullang Guide's recent three-month public Shorts window contains 54 videos with a confirmed total runtime of about 48 minutes and 56 seconds. The public sample Markdown file is a shortened example that cites 21 representative sources used for the price-tier Top lists.
+As of 2026-05-18, Jaesullang Guide's recent three-month public YouTube upload window contains 54 Shorts and 3 regular videos, for 57 videos total. The confirmed total runtime is about 1 hour, 37 minutes, and 54 seconds. The public sample Markdown file is a shortened example that cites 21 representative sources used for the price-tier Top lists.
 
 In other words, properly rebuilding a three-month creator list means reviewing more than 50 videos, separating recommendations from negative reviews, product reviews, and sponsored/marketing-heavy content, then extracting restaurant names, locations, price ranges, main menus, and actual recommendation reasons. The videos may be short, but the structuring work is still tedious.
 
