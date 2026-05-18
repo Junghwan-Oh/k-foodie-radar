@@ -71,7 +71,13 @@ The creator list is not fixed. It should be edited for each user.
 
 ## Taste And Feedback Management
 
-Creator lists and personal taste lists should be managed separately.
+The personal taste layer is not just a note about favorite foods. For the system to work well, three axes must stay separate:
+
+1. Creator taste and trust
+2. Restaurant and food preferences
+3. Post-visit feedback loop
+
+If all three are stored only in `taste-profile.md`, it becomes unclear whether the user trusts a creator, likes a cuisine, or simply had one good visit. Creator lists and personal taste lists should therefore be managed separately, while real visit feedback continuously updates both.
 
 1. Food creator / influencer list
    - Managed in `creator-registry.md`, `creator-source-pool.md`, and `creator-lifecycle.md`.
