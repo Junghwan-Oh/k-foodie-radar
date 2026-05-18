@@ -8,6 +8,10 @@ It goes beyond generic “find me a restaurant nearby” search. It tracks trust
 
 Restaurant discovery is noisy.
 
+Whenever you want to eat somewhere good, searching from scratch gets tedious. High-quality food YouTubers can recommend excellent restaurants, but watching multiple videos and then extracting the restaurant names, menus, prices, and locations is also a chore.
+
+This project started from a simple question: "Can I easily turn one favorite food YouTuber's last few months of restaurant recommendations into a usable list?" From there, it grew into a broader skill for managing creators, official guides, personal taste, and real visit feedback together.
+
 Map ratings, blog posts, and viral reviews often mix real information with ads and marketing. Following trusted food YouTubers manually also takes time. You may watch a long video only to find that the restaurant is not your style, or that there are too many candidates to turn into an actual visit list.
 
 Shorts and Reels make this harder. A video can be genuinely useful, but the restaurant name may not appear in the title. The actual restaurant name, price, address, and menu details may be tucked away in the description or hashtags.
